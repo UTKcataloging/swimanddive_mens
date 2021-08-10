@@ -1,10 +1,11 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_004147_000038</identifier>
+   <identifier type="pid">swim:1563</identifier>
    <titleInfo>
       <title>Tennessee: 2006-07 Volunteers Swimming and Diving</title>
    </titleInfo>
    <titleInfo supplied="yes">
-      <title>University of Tennessee Swimming-Diving media guide 2006-2007</title>
+      <title>University of Tennessee Volunteers Swimming-Diving media guide 2006-2007</title>
    </titleInfo>
    <originInfo>
       <dateIssued>2007</dateIssued>
@@ -14,15 +15,13 @@
    <physicalDescription>
       <extent>60 pages</extent>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <internetMediaType>image/jp2</internetMediaType>
-      <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <subject>
       <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2018031459">
          <namePart>Tennessee Volunteers (Swimming and diving team)</namePart>
       </name>
    </subject>
-   <subject>
+   <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q108038792">
       <name>
          <namePart>Trembley, John</namePart>
       </name>
@@ -46,10 +45,9 @@
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>
    <typeOfResource>text</typeOfResource>
-   <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
-         <title>University of Tennessee Men&apos;s Swimming-Diving Media Guides</title>
+         <title>University of Tennessee Volunteers Swimming-Diving Media Guides</title>
       </titleInfo>
    </relatedItem>
    <location>
